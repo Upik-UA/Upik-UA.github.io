@@ -1,0 +1,28 @@
+body {
+    background-image: url(gg.webp);
+    background-size: cover;
+}
+
+.center-img {
+    display: block;
+    margin: 0 auto;
+}
+
+.navbar-list {
+    display: flex;
+    list-style-type: none;
+}
+
+.navbar-list-item {
+    padding: 15 px;
+    border: 0px;
+}
+
+.navbar-block {
+    display: flex;
+}
+
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
