@@ -1,6 +1,7 @@
 body {
-    background-image: url(gg.webp);
+    background-image: url(gg.jpg);
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .center-img {
@@ -18,13 +19,12 @@ body {
     border: 0px;
 }
 
-.navbar-block {
-    display: flex;
-}
+.navbar-block {}
 
 .container {
     width: 75%;
     margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.285);
 }
 
 @media (max-width: 600px) {
