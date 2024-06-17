@@ -1,5 +1,5 @@
 body {
-    background-image: url(gg.jpg);
+    background-image: url(1920x.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -19,12 +19,14 @@ body {
     border: 0px;
 }
 
-.navbar-block {}
+.navbar-block {
+    
+}
 
 .container {
     width: 75%;
     margin: 0 auto;
-    background-color: rgba(255, 255, 255, 0.632);
+    background-color: rgba(255, 238, 0, 0);
 }
 
 @media (max-width: 600px) {
@@ -34,4 +36,7 @@ body {
     .blue i {
         display: flex;
     }
+}
+.colored-text {
+    color: rgb(208, 255, 0);
 }
